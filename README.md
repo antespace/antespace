@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello 👋
+ 
+I'm Chris, a Full-Stack developer working primarily within the .NET/C# ecosphere. Things are a little bare at the moment but things are a brewin. 
 
 <!--
 **antespace/antespace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
